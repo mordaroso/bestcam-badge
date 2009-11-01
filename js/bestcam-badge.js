@@ -19,4 +19,4 @@ loadBadge = function(){
 }
 
 document.write('<script onload="loadBadge()" src="http://bestcam.fabiokuhn.com/' + document.getElementById('bestcam-badge').getAttribute('data-id') + '.js" type="text/javascript"></script>');
-document.write('<link media="screen" type="text/css" href="css/screen.css" rel="stylesheet"/>');
+document.write('<link media="screen" type="text/css" href="http://bestcam.fabiokuhn.com/css/screen.css" rel="stylesheet"/>');
